@@ -1,16 +1,16 @@
-typography_spectrum: 0.7634787468705326
+layout_spectrum: 0.48630452435463667
+typography_spectrum: 0.03618736728094518
 color:
-  brandStrength: 0.6563615882769227
-  lightness: 0.3233537864871323
-  saturation: 0.16302864789031446
-  rhythmicContrast: 0.4279615576379001
+  brandStrength: 0.43375549209304154
+  lightness: 0.4564228767994791
+  saturation: 0.3881304105743766
+  rhythmicContrast: 0.9753090639133006
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-layout_spectrum: 0.8322660634294152
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 author:
   name: Jason
   email: jasonhendry@gmail.com
