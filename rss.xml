@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[What happens when I press this button...?]]></title>
+        <description><![CDATA[What happens when I press this button...?]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Aug 2016 07:57:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New photo added to gallery]]></title>
+            <description><![CDATA[<article><h1>New photo added to gallery</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/411624278deb9e80e80007b0e79a29a8/noop.jpg?input=https%3A%2F%2Ffarm9.staticflickr.com%2F8804%2F28719453551_d60a4189fd_b.jpg"></article>]]></description>
+            <link>https://flic.kr/p/KKQGYg</link>
+            <guid isPermaLink="false">2a581935-73d8-4ddb-849a-d391ab8d673f</guid>
+            <pubDate>Wed, 24 Aug 2016 07:57:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
