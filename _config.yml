@@ -1,16 +1,16 @@
-typography_spectrum: 0.7312510607298464
+layout_spectrum: 0.8322660634294152
+typography_spectrum: 0.7634787468705326
 color:
-  brandStrength: 0.5770080434158444
-  lightness: 0.4363450778182596
-  saturation: 0.374932027887553
-  rhythmicContrast: 0.994465870782733
+  brandStrength: 0.6563615882769227
+  lightness: 0.3233537864871323
+  saturation: 0.16302864789031446
+  rhythmicContrast: 0.4279615576379001
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.7070787157863379
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
 name: Beats & Bytes
 title: What happens when I press this button...?
 description: Did I do that?
