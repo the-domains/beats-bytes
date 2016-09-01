@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-30T01:58:57.988Z'
+datePublished: '2016-08-30T01:58:34.675Z'
 sourcePath: _posts/2016-08-24-were-getting-the-studio-up-again.md
 author: []
 via: {}
-dateModified: '2016-08-30T01:58:57.055Z'
+dateModified: '2016-08-30T01:58:32.085Z'
 title: And then we began again
 id: 8797bda4-68ba-4c0b-b3dc-e38f3a66714d
 publisher: {}
