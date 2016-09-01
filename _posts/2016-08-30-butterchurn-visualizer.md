@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-30T01:11:08.228Z'
+datePublished: '2016-08-30T01:57:30.832Z'
 sourcePath: _posts/2016-08-30-butterchurn-visualizer.md
 isBasedOnUrl: 'https://butterchurnviz.com'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T01:11:07.159Z'
+dateModified: '2016-08-30T01:57:22.206Z'
 title: I loves me some vizuals
 app_links: []
 publisher:
@@ -16,8 +16,8 @@ publisher:
   domain: butterchurnviz.com
 description: >-
   I think being a visually oriented person, i’m just as happy watching as i am
-  listening.  In a performance sense, it’s twice as engaging to have sight as
-  well as sound.  Butterchurn is a reimplementation of Milkdrop as a browser
+  listening. In a performance sense, it’s twice as engaging to have sight as
+  well as sound. Butterchurn is a reimplementation of Milkdrop as a browser
   based visual generator.
 starred: false
 inFeed: true
@@ -35,14 +35,14 @@ I think being a visually oriented person, i'm just as happy watching as i am lis
 Butterchurn includes a number (80+) of Milkdrop presets, can play a Soundcloud set or use the local device microphone to trigger changes and transforms.
 
 It comes with all the benefits of a cloud based app, namely, it's available wherever you can get internet and a browser; you can fullscreen the browser for chromeless operation and it's easy to setup. Juts surf to https://butterchurnviz.com and you're good to go.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e04a7b38-4572-408c-ae7b-4d68ac7d6891.png)
+![Playlist, controls and sweet, sweet visuals...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e04a7b38-4572-408c-ae7b-4d68ac7d6891.png)
 
 Given a projector, a good song set and a skilled DJ, you can keep the crowd motivated for hours.
 
 And you can turn off all the chrome, just use the left and right arrows to change presets...
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e68dccbe22b8cf55905638bd74d33acb9fa4b482.png)
+![More fractals than an advanced math class](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e68dccbe22b8cf55905638bd74d33acb9fa4b482.png)
 
 And for the hardcore Viz hacker, the developer has thoughfully provided a profile and preset editor so you can call up your favs when the mood strikes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1fe8d2-6b33-4a1c-923a-05b77dd2a53a.png)
+![Tweek, pop and click to you heart's content.  Or just play with the built in presets.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1fe8d2-6b33-4a1c-923a-05b77dd2a53a.png)
 
 Drop the author an email and say thanks for the free.
