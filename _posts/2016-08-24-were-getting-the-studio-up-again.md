@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-24T07:49:45.501Z'
-sourcePath: _posts/2016-08-24-were-getting-the-studio-up-again.md
+datePublished: '2016-08-30T01:14:52.295Z'
 author: []
 via: {}
-dateModified: '2016-08-24T07:49:44.680Z'
+dateModified: '2016-08-30T01:14:51.347Z'
 title: And then we began again
+id: 8797bda4-68ba-4c0b-b3dc-e38f3a66714d
 publisher: {}
 description: We’re getting the studio up again.
 starred: false
+sourcePath: _posts/2016-08-24-were-getting-the-studio-up-again.md
 inFeed: true
 hasPage: false
 inNav: false
